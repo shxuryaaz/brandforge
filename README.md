@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="BrandForge" width="180" />
+</p>
+
 # BrandForge
 
 > Turn trending moments into published campaigns in under 90 seconds.
