@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="BrandForge" width="180" />
+  <img src="assets/logo.png" alt="BrandForge" width="480" />
 </p>
 
 # BrandForge
